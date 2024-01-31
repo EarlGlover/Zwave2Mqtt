@@ -144,3 +144,4 @@ extern void LcdCursor(uint8_t row, uint8_t col);
 
 
 #endif                                                               /* LCD_H */
+ 
